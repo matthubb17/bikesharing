@@ -43,9 +43,18 @@ This graph shows the nummber of trips by duration, seperated by gender. As you c
 
 ![Image 6](https://github.com/matthubb17/bikesharing/blob/main/Images/Trips%20by%20Weekday%20per%20Hour.png)
 
+This heatmap helps to identify what times users are renting the bikes most frequently. As you can see, usage is spread out throughout most of the day. The times that bikes are least used are in the early mornings and late at night when most people are sleeping.
+***
+
 ![Image 7](https://github.com/matthubb17/bikesharing/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
+This heatma shows the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender. From this we can see that men are the primary renters.
+***
+
 ![Image 8](https://github.com/matthubb17/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.png)
+
+This heatmap was created to show the number of bike trips for each type of user and gender for each day of the week, and you can filter by both user and gender.
+
 
 ## Summary:
 
