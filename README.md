@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 ## Project Overview:
 
@@ -12,8 +12,21 @@ The goal of this project was to use tableau to create an analysis of NYC CitiBik
 
 ## Results:
 
-- Below is a link to the dashbaord that was created.
+Below is a link to the dashbaord that was created:
 
-[link to dashboard](https://public.tableau.com/shared/7JF8XTRHM?:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard](https://public.tableau.com/shared/7JF8XTRHM?:display_count=n&:origin=viz_share_link)
 
-![Image of Map](https://github.com/matthubb17/Mapping_Earthquakes/blob/main/Images/Earthquake_Map.JPG)
+![Image 1]()
+
+![Image 2]()
+
+![Image 3]()
+
+![Image 4]()
+
+![Image 5]()
+
+![Image 6]()
+
+![Image 7]()
+
