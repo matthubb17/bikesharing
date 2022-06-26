@@ -58,4 +58,9 @@ This heatmap was created to show the number of bike trips for each type of user 
 
 ## Summary:
 
-Insert Summary here
+From the analysis above we see that the most popular location for renting bikes is in the Manhattan area. In addition, males are by far more common to rent during both rush hour times most likely in an effort to avoid traffic.
+
+Additional Analysis Ideas:
+
+  - I would like to take a look at other years of data to get a better idea of if trends have changed. This could be perticularily interesting to see the impact of COVID-19 on the data
+  - One other thing that I would like to explore would be to see if these trends are common in other cities. Sice the goal of this project was to determine if it makes sense to start a program in Des Moines, Iowa.
