@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-The goal of this project was to use tableau to create an analysis of NYC CitiBike bikesharing data from August 2019.
+The goal of this project was to use tableau to create an analysis of NYC CitiBike bikesharing data from August 2019. This analysis will be used to help determine if it makes sense to start a ridesharing bike program in Des Moines, Iowa.
 
 ## Resources:
 
@@ -18,9 +18,15 @@ Below is a link to the dashbaord that was created:
 
 ![Image 1](https://github.com/matthubb17/bikesharing/blob/main/Images/Customer%20Demographics.png)
 
+The above image helps the viewer to better understand the demographics of the users of CitiBikes. You can see the total number of rides in the given time period along with a gender breakdown and a subscriber/customer breakdown.
+
 ![Image 2](https://github.com/matthubb17/bikesharing/blob/main/Images/Starting%20Locations%20of%20Rides.png)
 
+The above map shows you where rental bike trips started. The size of the circles and darkness will help the viewer to better identify where the most popular areas trips started were. You can see that the most common start area for a rental was in Manhattan.
+
 ![Image 3](https://github.com/matthubb17/bikesharing/blob/main/Images/Ending%20Locations%20of%20Rides.png)
+
+Similar to the starting map, the map above shows the same data for the ending locations for the rentals.
 
 ![Image 4](https://github.com/matthubb17/bikesharing/blob/main/Images/Checkout%20Times%20for%20Users.png)
 
